@@ -30,6 +30,21 @@ No final, era hora de consultar. Usando a interface (UI) do *Search explorer*, p
 
 ---
 
+## 📸 Capturas de Tela e Evidências do Laboratório
+
+Abaixo estão as capturas de tela das minhas interações com o portal do Azure, demonstrando as consultas realizadas e os resultados obtidos:
+
+![Evidência 1](images/foto1.png)
+![Evidência 2](images/Screenshot_556.png)
+![Evidência 3](images/Screenshot_559.png)
+![Evidência 4](images/Screenshot_562.png)
+![Evidência 5](images/Screenshot_563.png)
+![Evidência 6](images/Screenshot_570.png)
+![Evidência 7](images/Screenshot_571.png)
+![Evidência 8](images/Screenshot_572.png)
+
+---
+
 ## 🔗 Referências que recomendo para estudo
 
 Para quem quer se aprofundar, separei os materiais que me serviram de guia seguro na elaboração desse projeto inteiro:
